@@ -12,6 +12,9 @@ A few resources to get you started if this is your first Flutter project:
 - [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
 
 <a href="https://www.youtube.com/playlist?list=PL6BTtm1PxwOUpt1muzFD3ErxWdCzLkYbI" > Click here for more Flutter Tutorials </a>
+
+Switch to the (Flutter-heading) branch for more code details.
+
 # FlutterSamples
 Flutter Sample examples
 
