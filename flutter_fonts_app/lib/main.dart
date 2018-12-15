@@ -27,8 +27,6 @@ class MyApp extends StatelessWidget {
                 'This is a Sample Text',
                 textAlign: TextAlign.center,
                 style: TextStyle(
-                  fontFamily: 'Charm',
-                  fontSize: 30.0,
                   color: new Color(0xff622F74),
                 ),
               ),
