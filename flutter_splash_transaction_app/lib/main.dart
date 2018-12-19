@@ -6,7 +6,7 @@ import 'splash_screen_three.dart';
 
 var routes=<String,WidgetBuilder>{
   "/splashtwo":(BuildContext context)=> SplashScreenTwo(),
-  "/splashthree":(BuildContext context)=> SplashScreenThree(),
+  "/splashthree":(BuildContext context)=> SplashScreenThree()
 };
 
 void main() => runApp(MaterialApp(

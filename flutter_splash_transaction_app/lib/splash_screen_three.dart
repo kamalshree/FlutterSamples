@@ -9,7 +9,7 @@ class _SplashScreenThreeState extends State<SplashScreenThree> {
 
   @override
   Widget build(BuildContext context) {
-    // TODO: implemenxt build
+    // TODO: implement build
     return Scaffold(
       body:Stack(
           fit: StackFit.expand,
